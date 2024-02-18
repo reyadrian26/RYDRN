@@ -931,7 +931,7 @@ textarea{
   }
   
   .active, .dot:hover {
-    background-color: #717171;
+    background-color: #edf1fd;
   }
   
   /* Fading animation */
